@@ -1,2 +1,2 @@
 
-print("This is first version control practice.")
+print("This is second version control practice.")
